@@ -26,6 +26,7 @@ p{line-height:1.65;color:#becbd5}
 .button:hover{filter:brightness(1.12)}
 .note{margin-top:1rem;font-size:.92rem}
 figure{margin:0;border:1px solid var(--line);background:var(--panel);border-radius:16px;overflow:hidden}
+.additional-screenshot{margin-top:1rem}
 figure img{display:block;width:100%;height:auto}
 figcaption{padding:.85rem 1rem;color:#becbd5;font-size:.9rem}
 section.details{padding-block:clamp(3rem,7vw,5rem)}
